@@ -1,4 +1,4 @@
-# Cd into the main directiory - assignment
+# Cd into the main directiory
 # run npm install
 - to run the app with example json file use
 # npm run start-example
